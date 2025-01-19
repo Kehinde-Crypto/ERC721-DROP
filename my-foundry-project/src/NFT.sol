@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 import "../lib/forge-std/src/interfaces/IERC721.sol";
-import "../";
+import "../lib/forge-std";
 
 // interface IERC721 {
 //     function balanceOf(address _owner) external view returns (uint256);
