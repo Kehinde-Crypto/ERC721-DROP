@@ -1,4 +1,5 @@
-Here's a polished README file for your project, tailored for an ERC721 DROP implementation:  
+Here's a polished README file for your project, tailored for an ERC721 DROP implementation:  In this project provides ERC
+Concepts with some some smart contract implementations that are used
 
 ---
 
